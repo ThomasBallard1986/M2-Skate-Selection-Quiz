@@ -4,7 +4,7 @@ This questionnaire was designed to help users find an inline skate by answering 
 
 !["Am I Responsive" image](documentation/supp-images/amiresponsive.jpg)
 
-[View the Live project here](https://thomasballard1986.github.io/Hexi-Skate-HardwareM1/)
+[View the Live project here](https://thomasballard1986.github.io/M2-Skate-Selection-Quiz/)
 
 ## Table of Contents
 1. [User Experience](#user-experience)
